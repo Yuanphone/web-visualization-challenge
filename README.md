@@ -1,5 +1,5 @@
 # web-visualization-challenge
-# The github page: 
+# The github page: https://yuanphone.github.io/web-visualization-challenge/
 ## Belly Button Biodiversity
 In this challenge, we built an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
