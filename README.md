@@ -21,8 +21,8 @@ The following tasks have been completed:
 
 7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
  ## screenshot for the webpages:
- <img width="883" alt="belly_image01" src="https://user-images.githubusercontent.com/100816322/175988954-202cbc5c-91cb-41a8-b0e2-d34e7b8fb419.PNG">
  <img width="948" alt="belly_image0" src="https://user-images.githubusercontent.com/100816322/175989010-5b36ed19-697b-4bbf-a6dc-645bbdc58a88.PNG">
+  <img width="883" alt="belly_image01" src="https://user-images.githubusercontent.com/100816322/175988954-202cbc5c-91cb-41a8-b0e2-d34e7b8fb419.PNG">
 
 ## References
 
