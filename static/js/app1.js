@@ -287,8 +287,10 @@ for(var each= 0; each < metadata.length; each++){
         }
 }
 console.log(metaDataSelectedRow)
-// d3.select('#sample-metadata').remove("table")
-let metatable=d3.select('#sample-metadata').append("table")
+d3.selectAll('tr').remove()
+// create new table, and give new table #sample-metadata id
+// let metatable=d3.select('#sample-metadata').append("table")
+let metatable=d3.select('table')
 let metarow=metatable.append('tr')
 let tabledata=metarow.append('td')
 let metaid=tabledata.text('ID:'+metadata[metaDataSelectedRow].id)
@@ -363,7 +365,6 @@ for(var row = 0; row < metadata.length; row++){
 Plotly.restyle("gauge", "value", [value]);
 
 }
-
 
 init();
 
